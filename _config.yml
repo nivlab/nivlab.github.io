@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Niv Lab
+title: Niv Lab 
 description: >- # this means to ignore newlines until "baseurl:"
   Research in the Niv lab focuses on the neural and computational processes
   underlying reinforcement learning and decision-making. This site features
-  some of our computational tools, tutorials, and data.
+  some of our computational resources: tools, tutorials, data, and code examples.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nivlab.github.io"
+url: "" #"https://nivlab.github.io"
 github_username:  nivlab
 
 # Build settings
@@ -51,7 +51,7 @@ search_enabled: true
 # Footer
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-footer_content: "Copyright &copy; 2019-2020 Niv Lab. Distributed by an <a href=\"https://github.com/nivlab\">MIT license.</a>"
+footer_content: "Copyright &copy; 2021 Niv Lab."
 
 # Back to top link
 back_to_top: true

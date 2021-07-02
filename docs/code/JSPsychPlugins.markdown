@@ -1,7 +1,7 @@
 ---
 layout: default
 title: JSPsych plugins
-parent: code
+parent: Code
 
 permalink: /code/JSPsych-plugins
 

@@ -4,7 +4,7 @@ title: NivLink
 parent: Tools
 permalink: /nivlink/
 
-nav_order: 1
+nav_order: 2
 ---
 
 TODO: move from https://nivlink.readthedocs.io/en/latest/
