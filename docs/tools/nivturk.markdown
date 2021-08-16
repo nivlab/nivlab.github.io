@@ -2,7 +2,7 @@
 layout: default
 title: NivTurk
 parent: Tools
-permalink: /nivturk/
+permalink: https://nivlab.github.io/nivturk/
 
 nav_order: 1
 ---
