@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Research in the Niv lab focuses on the neural and computational processes
   underlying reinforcement learning and decision-making. This site features
   some of our computational resources: tools, tutorials, data, and code examples.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/nivlab" 
 url: "https://nivlab.github.io"
 github_username:  nivlab
 
