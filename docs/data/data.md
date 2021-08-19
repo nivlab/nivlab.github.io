@@ -7,5 +7,3 @@ permalink: /docs/data
 ---
 
 # Data
-
-test test test

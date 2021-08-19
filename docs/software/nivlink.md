@@ -1,10 +1,14 @@
 ---
 layout: default
 title: NivLink
-parent: Tools
-permalink: /nivlink/
-
-nav_order: 2
+parent: Software
+permalink: /docs/software/nivlink/
+nav_order: 3
 ---
 
-TODO: move from https://nivlink.readthedocs.io/en/latest/
+# NivLink
+
+NivLink is an open-source Python package developed in the Niv Lab to preprocess EyeLink eyetracking data.
+
+[Code](https://github.com/nivlab/nivlink){: .btn .mr-2 }
+[Documentation](https://nivlink.readthedocs.io/en/latest/){: .btn }
