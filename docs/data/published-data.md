@@ -17,6 +17,20 @@ Manuscript: https://psyarxiv.com/rynhk/
 Data: https://github.com/nivlab/sciops
 ```
 
+### Rouhani & Niv (2021)
+*Signed and unsigned reward prediction errors dynamically enhance learning and memory*
+```
+Manuscript: https://doi.org/10.7554/eLife.61077
+Data: https://github.com/ninarouhani/2021_RouhaniNiv
+```
+
+### Shin & Niv (2021)
+*Biased evaluations emerge from inferring hidden causes*
+```
+Manuscript: https://doi.org/10.1038/s41562-021-01065-0
+Data: https://osf.io/fdcvw/
+```
+
 ### Zaller et al. (2021)
 *Information Seeking on the Horizons Task Does Not Predict Anxious Symptomatology*
 ```
