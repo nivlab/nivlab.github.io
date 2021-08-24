@@ -15,4 +15,4 @@ has_children: false
 
 [Software](/software): Software developed by the Niv lab for experimental research and analysis.
 
-[Tutorials](/tutorials): Tutorials developed by the Niv lab on various topics.
+[Tutorials and Code](/tutorials): Tutorials developed by the Niv lab on various topics including code examples.

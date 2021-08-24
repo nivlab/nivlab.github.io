@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Reinforcement learning tutorials
+title: RL tutorials
 parent: Tutorials and Code
 permalink: /tutorials/RL/
 
 nav_order: 2
 ---
+
+# Reinforcement learning tutorials
 
 A 3-part tutorial on basic reinforcement learning algorithms for across-trial and within-trial associative learning, both pavlovian and instrumental.
 
