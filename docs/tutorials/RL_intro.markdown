@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reinforcement learning tutorials
-parent: Tutorials
+parent: Tutorials and Code
 permalink: /tutorials/RL/
 
 nav_order: 2
