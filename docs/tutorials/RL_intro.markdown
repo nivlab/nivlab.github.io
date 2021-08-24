@@ -19,4 +19,4 @@ Each part of the tutorial is a jupyter notebook (can be opened on Colab) contain
 
 
 
-See on github [github](https://github.com/spisupat/RL-tutorials)
+[All code](https://github.com/spisupat/RL-tutorials){: .btn }
