@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Tutorials
+title: Tutorials and Code
 permalink: /tutorials/
 nav_order: 4
 has_children: true
 ---
 
-# Tutorials
+# Tutorials & Code
 
 wip
