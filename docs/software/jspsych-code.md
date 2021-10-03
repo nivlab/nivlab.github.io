@@ -1,14 +1,15 @@
 ---
 layout: default
-title: jsPsych code
+title: jspsych-demos
 parent: Software
-permalink: /docs/software/jsPsych-code
+permalink: /docs/software/jspsych-demos
 nav_order: 2
 has_children: false
 ---
 
-# jsPsych-code
+# jspsych-demos
 
-The Niv lab has built up a library of custom jsPsych plugins that are frequently used in our experiments, including demographics questionnaires, Likert scales with built-in quality assurance measures, audio testing, and full task demos.
+The Niv lab has built up a library of tasks and custom jsPsych plugins that are frequently used in our experiments, including demographics questionnaires, Likert scales with built-in quality assurance measures, audio testing, and full task demos.
 
-[Code](https://github.com/nivlab/nivturk-templates){: .btn .mr-2 }
+[Code](https://github.com/nivlab/jspsych-demos){: .btn .mr-2 }
+[Documentation](https://nivlab.github.io/jspsych-demos/){: .btn }
