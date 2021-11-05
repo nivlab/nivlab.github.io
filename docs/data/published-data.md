@@ -10,6 +10,13 @@ has_children: false
 
 The Niv lab has made publicly available the data from many of its publications. Below are a list of publications -- in chronological order -- with links to their data.
 
+### Bennett, Radelescu et al. (2021)
+*Affect-congruent attention drives changes in reward expectations*
+```
+Manuscript: https://psyarxiv.com/vu2cw/
+Data: https://osf.io/egw5c/
+```
+
 ### Zorowitz et al. (2021)
 *Inattentive responding can induce spurious associations between task behavior and symptom measures*
 ```
