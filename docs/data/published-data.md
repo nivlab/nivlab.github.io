@@ -2,7 +2,7 @@
 layout: default
 title: Published data
 parent: Data
-nav_order: 2
+nav_order: 1
 has_children: false
 ---
 

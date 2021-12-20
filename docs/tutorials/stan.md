@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Getting started with Stan
+title: Stan tutorials
 parent: Tutorials and Code
 permalink: /tutorials/stan/
 
-nav_order: 1
+nav_order: 2
 ---
 
 # Stan

@@ -4,10 +4,14 @@ title: RL tutorials
 parent: Tutorials and Code
 permalink: /tutorials/RL/
 
-nav_order: 2
+nav_order: 1
 ---
 
 # Reinforcement learning tutorials
+
+## [PSY338 Reinforcement learning tutorials](https://github.com/spisupat/RL-tutorials)
+
+*Author: Sashank Pisupati*
 
 A 3-part tutorial on basic reinforcement learning algorithms for across-trial and within-trial associative learning, both pavlovian and instrumental.
 
@@ -19,6 +23,14 @@ The [third part](https://github.com/spisupat/RL-tutorials/blob/main/Instrumental
 
 Each part of the tutorial is a jupyter notebook (can be opened on Colab) containing a brief theory overview and questions with starter code, followed by solutions.
 
+## [Reinforcement Learning Resource Guide & Tutorial](https://github.com/rmgeddert/Reinforcement-Learning-Resource-Guide/blob/master/RLResourceGuide.md)
 
+*Author: Raphael Geddert*
 
-[All code](https://github.com/spisupat/RL-tutorials){: .btn }
+A resource guide/tutorial for those interested in reinforcement learning and modeling. While not comprehensive, it will hopefully give you a basic understanding of how RL works (and modeling more generally).
+
+## [RL Tutorials](https://github.com/iancballard/RL-Tutorials)
+
+*Author: Ian Ballard*
+
+Quick tutorials covering RL concepts
