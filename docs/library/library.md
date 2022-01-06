@@ -47,6 +47,12 @@ has_children: false
 
 > A set of best practice guidance, focusing on the reporting of linear mixed-effects models.
 
+#### [Yu et al. (2021)](https://doi.org/10.1016/j.neuron.2021.10.030)
+{: .no_toc }
+*Beyond t test and ANOVA: applications of mixed-effects models for more rigorous statistical analysis in neuroscience research*
+
+> A primer on linear and generalized mixed-effects models that consider data dependence and which provides clear instruction on how to recognize when they are needed and how to apply them.
+
 ### Cognitive modeling
 
 #### [Wilson & Collins (2019)](https://doi.org/10.7554/eLife.49547)
