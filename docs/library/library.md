@@ -53,6 +53,12 @@ has_children: false
 
 > A primer on linear and generalized mixed-effects models that consider data dependence and which provides clear instruction on how to recognize when they are needed and how to apply them.
 
+#### [Hoffman & Walters (2022)](https://psyarxiv.com/j8x9k/)
+{: .no_toc }
+*Catching Up onMultilevel Modeling*
+
+> A review focused on the use of multilevel models in psychology and other social sciences. Targeted towards readers aiming to get up to speed on current best practices in the specification of multilevel models.
+
 ### Cognitive modeling
 
 #### [Wilson & Collins (2019)](https://doi.org/10.7554/eLife.49547)
