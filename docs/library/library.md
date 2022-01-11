@@ -31,6 +31,21 @@ has_children: false
 
 > A review of the Bayesian decision theoretic approach to decision making, showing how it unifies issues in Markovian decision problems, signal detection psychophysics, sequential sampling, and optimal exploration. Includes paradigmatic psychological and neural examples of each problem.
 
+### general learning and memory
+
+#### [Tolman (1948)](https://psycnet.apa.org/record/1949-00103-001)
+{: .no_toc }
+*Cognitive maps in rats and men*
+
+> Classic and highly generative paper introducing the notion of cognitive maps
+
+#### [McClelland, McNaughton, O'Reilly, (1995)](https://psycnet.apa.org/record/1995-42327-001)
+{: .no_toc }
+*Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory*
+
+> Classic and highly influential computational modelling framework for complementary learning systems (cortex vs. hippocampus). A great use of neural network/distributed representations. The theory has been updated since, but it's a classic.
+
+
 ## Experiments & Data Collection
 
 ### Online data quality
