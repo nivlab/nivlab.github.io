@@ -39,7 +39,7 @@ has_children: false
 
 > Classic and highly generative paper introducing the notion of cognitive maps
 
-#### [McClelland, McNaughton, O'Reilly (1995)](https://psycnet.apa.org/record/1995-42327-001)
+#### [McClelland, McNaughton & O'Reilly (1995)](https://psycnet.apa.org/record/1995-42327-001)
 {: .no_toc }
 *Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory*
 
@@ -51,7 +51,7 @@ has_children: false
 {: .no_toc }
 *Toward a universal law of generalization for psychological science*
 
-> The classic paper on generalization, deriving that the probability of generalization from one stimulus to another should decay approximately exponential with the psychological distance between the stimuli, which is confirmed by a range of empirical evidence.
+> The classic paper on generalization, deriving that the probability of generalization from one stimulus to another should decay approximately exponentially with the psychological distance between the stimuli, which is confirmed by a range of empirical evidence.
 
 #### [Anderson (1991)](https://psycnet.apa.org/record/1991-32228-001)
 {: .no_toc }
