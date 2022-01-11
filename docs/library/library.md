@@ -15,6 +15,22 @@ has_children: false
 1. TOC
 {:toc}
 
+## Foundations
+
+### Reinforcement learning & decision theory
+
+#### [Niv (2008)](https://doi.org/10.1016/j.jmp.2008.12.005)
+{: .no_toc }
+*Reinforcement learning in the brain*
+
+> An introduction to the formal reinforcement learning framework, including a review of the multiple lines of evidence linking reinforcement learning to the function of dopaminergic neurons in the mammalian midbrain and to human imaging experiments.
+
+#### [Dayan & Daw (2008)](https://doi.org/10.3758/CABN.8.4.429)
+{: .no_toc }
+*Decision theory, reinforcement learning, and the brain*
+
+> A review of the Bayesian decision theoretic approach to decision making, showing how it unifies issues in Markovian decision problems, signal detection psychophysics, sequential sampling, and optimal exploration. Includes paradigmatic psychological and neural examples of each problem.
+
 ## Experiments & Data Collection
 
 ### Online data quality
@@ -60,6 +76,12 @@ has_children: false
 > A review focused on the use of multilevel models in psychology and other social sciences. Targeted towards readers aiming to get up to speed on current best practices in the specification of multilevel models.
 
 ### Cognitive modeling
+
+#### [Palminteri et al. (2017)](https://doi.org/10.1016/j.tics.2017.03.011)
+{: .no_toc }
+*The Importance of Falsification in Computational Cognitive Modeling*
+
+> Argues that the simulation of candidate models is necessary to falsify models and thereby support the specific claims of a particular model. Proposes practical guidelines for model comparison and falsification.
 
 #### [Wilson & Collins (2019)](https://doi.org/10.7554/eLife.49547)
 {: .no_toc }
