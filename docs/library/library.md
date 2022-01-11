@@ -31,7 +31,7 @@ has_children: false
 
 > A review of the Bayesian decision theoretic approach to decision making, showing how it unifies issues in Markovian decision problems, signal detection psychophysics, sequential sampling, and optimal exploration. Includes paradigmatic psychological and neural examples of each problem.
 
-### general learning and memory
+### General learning and memory
 
 #### [Tolman (1948)](https://psycnet.apa.org/record/1949-00103-001)
 {: .no_toc }
@@ -44,6 +44,20 @@ has_children: false
 *Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory*
 
 > Classic and highly influential computational modelling framework for complementary learning systems (cortex vs. hippocampus). A great use of neural network/distributed representations. The theory has been updated since, but it's a classic.
+
+### Computational psychiatry
+
+#### [Huys, Maia & Frank (2016)](https://www.nature.com/articles/nn.4238)
+{: .no_toc }
+*Computational psychiatry as a bridge from neuroscience to clinical applications*
+
+> An introduction to computational psychiatry, including a review of theory- and data-driven approaches and examples of each.
+
+#### [Huys, Moutoussis & Williams(2011)](https://www.sciencedirect.com/science/article/pii/S0893608011000852)
+{: .no_toc }
+*Are computational models of any use to psychiatry?*
+
+> A paper discussing the benefits and challenges of using computational models in psychiatry in the form of a debate between two fictional characters.
 
 
 ## Experiments & Data Collection
