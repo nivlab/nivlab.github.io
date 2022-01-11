@@ -81,9 +81,9 @@ has_children: false
 
 #### [Moutoussis et al. (2017)](https://doi.org/10.1162/CPSY_a_00014)
 {: .no_toc }
-*Computation in Psychotherapy, or HowComputational Psychiatry Can Aid Learning-BasedPsychological Therapies*
+*Computation in Psychotherapy, or HowComputational Psychiatry Can Aid Learning-Based Psychological Therapies*
 
-> Introduces how advances in computational modeling may help formalize and test hypotheses regarding how patients make inferences, which are core postulates of cognitive-behavioral therapies. 
+> Introduces how computational modeling can help formalize and test hypotheses regarding how patients make inferences.
 
 ## Experiments & Data Collection
 
