@@ -79,6 +79,11 @@ has_children: false
 
 > A paper discussing the benefits and challenges of using computational models in psychiatry in the form of a debate between two fictional characters.
 
+#### [Moutoussis et al. (2017)](https://doi.org/10.1162/CPSY_a_00014)
+{: .no_toc }
+*Computation in Psychotherapy, or HowComputational Psychiatry Can Aid Learning-BasedPsychological Therapies*
+
+> Introduces how advances in computational modeling may help formalize and test hypotheses regarding how patients make inferences, which are core postulates of cognitive-behavioral therapies. 
 
 ## Experiments & Data Collection
 
