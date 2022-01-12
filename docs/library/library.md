@@ -37,7 +37,7 @@ has_children: false
 {: .no_toc }
 *Cognitive maps in rats and men*
 
-> Classic and highly generative paper introducing the notion of cognitive maps
+> Classic and seminal paper introducing the notion of cognitive maps
 
 #### [McClelland, McNaughton & O'Reilly (1995)](https://psycnet.apa.org/record/1995-42327-001)
 {: .no_toc }
@@ -84,6 +84,21 @@ has_children: false
 *Computation in Psychotherapy, or HowComputational Psychiatry Can Aid Learning-Based Psychological Therapies*
 
 > Introduces how computational modeling can help formalize and test hypotheses regarding how patients make inferences.
+
+### prefrontal cortex and decision making
+
+#### [Rushworth et al., 2011](https://www.sciencedirect.com/science/article/pii/S0896627311003953?via%3Dihub)
+{: .no_toc }
+*Frontal Cortex and Reward-Guided Learning and Decision-Making*
+
+> A lot has been done in the decade since, but it's nice starting point to value/decision making in the prefrontal cortex, covering both human and monkey studies. 
+
+### [Wilson et al., 2014](https://www.sciencedirect.com/science/article/pii/S0896627313010398)
+{: .no_toc }
+*Orbitofrontal Cortex as a Cognitive Map of Task Space*
+
+> A theoratical model of state representation in the orbitofrtonal cortex.
+
 
 ## Experiments & Data Collection
 
