@@ -85,7 +85,7 @@ has_children: false
 
 > Introduces how computational modeling can help formalize and test hypotheses regarding how patients make inferences.
 
-### prefrontal cortex and decision making
+### Prefrontal cortex and decision making
 
 #### [Rushworth et al., 2011](https://www.sciencedirect.com/science/article/pii/S0896627311003953?via%3Dihub)
 {: .no_toc }
@@ -101,6 +101,12 @@ has_children: false
 
 
 ## Experiments & Data Collection
+
+#### [Barbosa et al. (2022)](https://psyarxiv.com/tcmvp/)
+{: .no_toc }
+*A practical guide for studying human behavior in the lab*
+
+> A 10 simple rules paper on designing, piloting, running, and analyzing behaivoral experiments.
 
 ### Online data quality
 
