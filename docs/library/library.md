@@ -102,7 +102,7 @@ has_children: false
 
 ## Experiments & Data Collection
 
-#### [Barbosa et al. (2022)](https://psyarxiv.com/tcmvp/)
+#### [Barbosa et al. (2022)](https://link.springer.com/article/10.3758/s13428-022-01793-9)
 {: .no_toc }
 *A practical guide for studying human behavior in the lab*
 
@@ -121,6 +121,7 @@ has_children: false
 *Inattentive responding can induce spurious associations between task behavior and symptom measures*
 
 > Demonstration of how spurious correlations can arise between task and self-report data in the presence of low-effort participants.
+
 
 ## Methods & Statistics
 
@@ -164,6 +165,7 @@ has_children: false
 
 > A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison.
 
+
 ### Stan programming language
 
 #### [Betancourt (2017)](https://arxiv.org/abs/1701.02434)
@@ -172,14 +174,21 @@ has_children: false
 
 > A comprehensive conceptual account of the foundations of Hamiltonian Monte Carlo, focusing on developing a principled intuition behind the method and its optimal implementations rather of any exhaustive rigor.
 
-#### [Annis et al. (2017)](https://doi.org/10.3758/s13428-016-0746-9)
-{: .no_toc }
-*Bayesian inference with Stan: A tutorial on adding custom distributions*
-
-> A tutorial on how to use Stan and how to add custom distributions to it, with an example using the linear ballistic accumulator model.
-
 #### [Baribault & Collins (2021)](https://psyarxiv.com/rtgew)
 {: .no_toc }
 *Troubleshooting Bayesian cognitive models: A tutorial with matstanlib*
 
 > A deep treatment of the diagnostic checks and procedures that are critical for effective Stan troubleshooting, but are often left underspecified by tutorial papers.
+
+
+## Reserach skills
+
+### Data management 
+
+#### [Henry (2021)](https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management)
+{: .no_toc }
+*Eight Principles of Good Data Management*
+
+> A comprehensive overview of good data management practices.
+
+
