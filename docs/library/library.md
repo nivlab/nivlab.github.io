@@ -191,4 +191,8 @@ has_children: false
 
 > A comprehensive overview of good data management practices.
 
+#### [Haroz (2022)](http://steveharoz.com/blog/2022/a-bare-minimum-for-open-empirical-data/)
+{: .no_toc }
+*A bare minimum for open empirical data*
 
+> Bare minimum requirements for what open data should entail in behavioral research.
