@@ -15,6 +15,43 @@ has_children: false
 1. TOC
 {:toc}
 
+## Niv Lab primer
+
+>These are some of the most useful papers for someone who is new to our area of research. This could be a student doing a rotation with us  at Princeton, or anyone who is interested in applying reinforcement learning and bayesian methods to the understanding of behavior and cognition (particularly in it's relevance to questions of psychiatric interest!) - but doesn't know where to start!
+
+#### [Niv (2008)](https://doi.org/10.1016/j.jmp.2008.12.005)
+{: .no_toc }
+*Reinforcement learning in the brain*
+
+> An introduction to the formal reinforcement learning framework, including a review of the multiple lines of evidence linking reinforcement learning to the function of dopaminergic neurons in the mammalian midbrain and to human imaging experiments.  
+
+#### [Gershman, Blei & Niv (2010)](https://psycnet.apa.org/record/2009-25263-004)
+{: .no_toc }
+*Context, learning, and extinction*
+
+> A paper showing that learning about contexts in conditioning, just like categorization, is well-explained by latent-cause models.
+
+#### [Wilson & Collins (2019)](https://doi.org/10.7554/eLife.49547)
+{: .no_toc }
+*Ten simple rules for the computational modeling of behavioral data*
+
+> A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison.
+
+#### [Niv (2019)](https://www.nature.com/articles/s41593-019-0470-8.pdf?origin=ppub)
+)
+{: .no_toc }
+*Learning task-state representations*
+
+> Summarizes recent research into the computational and neural foundations of state representations.
+
+#### [Radulescu & Niv (2019)](https://www.sciencedirect.com/science/article/pii/S0959438818300928)
+{: .no_toc }
+*State Representation in Mental Illness*
+
+> Some ideas about why we think exploring state representations may be valuable in computational psychiatry.
+
+
+
 ## Foundations
 
 ### Reinforcement learning & decision theory
@@ -23,7 +60,8 @@ has_children: false
 {: .no_toc }
 *Reinforcement learning in the brain*
 
-> An introduction to the formal reinforcement learning framework, including a review of the multiple lines of evidence linking reinforcement learning to the function of dopaminergic neurons in the mammalian midbrain and to human imaging experiments.
+> An introduction to the formal reinforcement learning framework, including a review of the multiple lines of evidence linking reinforcement learning to the function of dopaminergic neurons in the mammalian midbrain and to human imaging experiments.  
+*[Part of the Niv Lab Primer](#Niv-Lab-Primer)*
 
 #### [Dayan & Daw (2008)](https://doi.org/10.3758/CABN.8.4.429)
 {: .no_toc }
@@ -33,11 +71,11 @@ has_children: false
 
 ### General learning and memory
 
-#### [Tolman (1948)](https://psycnet.apa.org/record/1949-00103-001)
+#### [Costa & Schoenbaum (2022)](https://doi.org/10.1016/j.cub.2022.06.060)
 {: .no_toc }
-*Cognitive maps in rats and men*
+*Dopamine*
+>An appropriately named primer on dopamine.
 
-> Classic and seminal paper introducing the notion of cognitive maps
 
 #### [McClelland, McNaughton & O'Reilly (1995)](https://psycnet.apa.org/record/1995-42327-001)
 {: .no_toc }
@@ -45,13 +83,21 @@ has_children: false
 
 > Classic and highly influential computational modelling framework for complementary learning systems (cortex vs. hippocampus). A great use of neural network/distributed representations. The theory has been updated since, but it's a classic.
 
+#### [Tolman (1948)](https://psycnet.apa.org/record/1949-00103-001)
+{: .no_toc }
+*Cognitive maps in rats and men*
+
+> Classic and seminal paper introducing the notion of cognitive maps
+
 ### Generalization, categorization & latent-cause inference
 
-#### [Shepard (1987)](https://www.science.org/doi/10.1126/science.3629243)
+#### [Gershman, Blei & Niv (2010)](https://psycnet.apa.org/record/2009-25263-004)
 {: .no_toc }
-*Toward a universal law of generalization for psychological science*
+*Context, learning, and extinction*
 
-> The classic paper on generalization, deriving that the probability of generalization from one stimulus to another should decay approximately exponentially with the psychological distance between the stimuli, which is confirmed by a range of empirical evidence.
+> A paper showing that learning about contexts in conditioning, just like categorization, is well-explained by latent-cause models.
+*[Part of the Niv Lab Primer](#Niv-Lab-Primer)*
+
 
 #### [Anderson (1991)](https://psycnet.apa.org/record/1991-32228-001)
 {: .no_toc }
@@ -59,11 +105,11 @@ has_children: false
 
 > The paper which introduced the non-parametric model of categorization on which our latent-cause inference models are based (using the Dirichlet process mixture/CRP prior).
 
-#### [Gershman, Blei & Niv (2010)](https://psycnet.apa.org/record/2009-25263-004)
+#### [Shepard (1987)](https://www.science.org/doi/10.1126/science.3629243)
 {: .no_toc }
-*Context, learning, and extinction*
+*Toward a universal law of generalization for psychological science*
 
-> A paper showing that learning about contexts in conditioning, just like categorization, is well-explained by latent-cause models. 
+> The classic paper on generalization, deriving that the probability of generalization from one stimulus to another should decay approximately exponentially with the psychological distance between the stimuli, which is confirmed by a range of empirical evidence.
 
 ### Computational psychiatry
 
@@ -81,7 +127,7 @@ has_children: false
 
 #### [Moutoussis et al. (2017)](https://doi.org/10.1162/CPSY_a_00014)
 {: .no_toc }
-*Computation in Psychotherapy, or HowComputational Psychiatry Can Aid Learning-Based Psychological Therapies*
+*Computation in Psychotherapy, or How Computational Psychiatry Can Aid Learning-Based Psychological Therapies*
 
 > Introduces how computational modeling can help formalize and test hypotheses regarding how patients make inferences.
 
@@ -91,7 +137,7 @@ has_children: false
 {: .no_toc }
 *Frontal Cortex and Reward-Guided Learning and Decision-Making*
 
-> A lot has been done in the decade since, but it's nice starting point to value/decision making in the prefrontal cortex, covering both human and monkey studies. 
+> A lot has been done in the decade since, but it's nice starting point to value/decision making in the prefrontal cortex, covering both human and monkey studies.
 
 ### [Wilson et al., 2014](https://www.sciencedirect.com/science/article/pii/S0896627313010398)
 {: .no_toc }
@@ -106,7 +152,7 @@ has_children: false
 {: .no_toc }
 *A practical guide for studying human behavior in the lab*
 
-> A 10 simple rules paper on designing, piloting, running, and analyzing behaivoral experiments.
+> A 10 simple rules paper on designing, piloting, running, and analyzing behavioral experiments.
 
 ### Online data quality
 
@@ -164,6 +210,7 @@ has_children: false
 *Ten simple rules for the computational modeling of behavioral data*
 
 > A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison.
+*[Part of the Niv Lab Primer](#Niv-Lab-Primer)*
 
 
 ### Stan programming language
@@ -181,9 +228,9 @@ has_children: false
 > A deep treatment of the diagnostic checks and procedures that are critical for effective Stan troubleshooting, but are often left underspecified by tutorial papers.
 
 
-## Reserach skills
+## Research skills
 
-### Data management 
+### Data management
 
 #### [Henry (2021)](https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management)
 {: .no_toc }
