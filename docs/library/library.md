@@ -38,7 +38,6 @@ has_children: false
 > A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison.
 
 #### [Niv (2019)](https://www.nature.com/articles/s41593-019-0470-8.pdf?origin=ppub)
-)
 {: .no_toc }
 *Learning task-state representations*
 
@@ -96,7 +95,7 @@ has_children: false
 *Context, learning, and extinction*
 
 > A paper showing that learning about contexts in conditioning, just like categorization, is well-explained by latent-cause models.
-*[Part of the Niv Lab Primer](#Niv-Lab-Primer)*
+*[Part of the Niv Lab Primer](#niv-lab-primer)*
 
 
 #### [Anderson (1991)](https://psycnet.apa.org/record/1991-32228-001)
@@ -210,7 +209,7 @@ has_children: false
 *Ten simple rules for the computational modeling of behavioral data*
 
 > A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison.
-*[Part of the Niv Lab Primer](#Niv-Lab-Primer)*
+*[Part of the Niv Lab Primer](#niv-lab-primer)*
 
 
 ### Stan programming language
