@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Library
-permalink: /library/
-nav_order: 2
-has_children: false
+permalink: /library
 ---
 
 # Library
 {: .no_toc }
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,230 +15,202 @@ has_children: false
 1. TOC
 {:toc}
 
+---
+
 ## Niv Lab primer
 
->These are some of the most useful papers for someone who is new to our area of research. This could be a student doing a rotation with us  at Princeton, or anyone who is interested in applying reinforcement learning and bayesian methods to the understanding of behavior and cognition (particularly in it's relevance to questions of psychiatric interest!) - but doesn't know where to start!
+These are some useful papers for someone who is new to our area of research. This could be a student doing a rotation with us  at Princeton, or anyone who is interested in applying reinforcement learning and Bayesian methods to the understanding of behavior and cognition (particularly in its relevance to questions of psychiatric interest) - but doesn't know where to start!
 
-#### [Niv (2008)](https://doi.org/10.1016/j.jmp.2008.12.005)
+#### [Niv (2008): Reinforcement learning in the brain](https://doi.org/10.1016/j.jmp.2008.12.005)
 {: .no_toc }
-*Reinforcement learning in the brain*
 
-> An introduction to the formal reinforcement learning framework, including a review of the multiple lines of evidence linking reinforcement learning to the function of dopaminergic neurons in the mammalian midbrain and to human imaging experiments.  
+An introduction to the formal reinforcement learning framework, including a review of the multiple lines of evidence linking reinforcement learning to the function of dopaminergic neurons in the mammalian midbrain and to human imaging experiments.  
 
-#### [Gershman, Blei & Niv (2010)](https://psycnet.apa.org/record/2009-25263-004)
+#### [Gershman, Blei & Niv (2010): Context, learning, and extinction](https://psycnet.apa.org/record/2009-25263-004)
 {: .no_toc }
-*Context, learning, and extinction*
 
-> A paper showing that learning about contexts in conditioning, just like categorization, is well-explained by latent-cause models.
+A paper showing that learning about contexts in conditioning, just like categorization, is well-explained by latent-cause models.
 
-#### [Wilson & Collins (2019)](https://doi.org/10.7554/eLife.49547)
+#### [Wilson & Collins (2019): Ten simple rules for the computational modeling of behavioral data](https://doi.org/10.7554/eLife.49547)
 {: .no_toc }
-*Ten simple rules for the computational modeling of behavioral data*
 
-> A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison.
+A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison.
 
-#### [Niv (2019)](https://www.nature.com/articles/s41593-019-0470-8.pdf?origin=ppub)
+#### [Niv (2019): Learning task-state representations](https://doi.org/10.1038/s41593-019-0470-8)
 {: .no_toc }
-*Learning task-state representations*
 
-> Summarizes recent research into the computational and neural foundations of state representations.
+Summarizes recent research into the computational and neural foundations of state representations.  
 
-#### [Radulescu & Niv (2019)](https://www.sciencedirect.com/science/article/pii/S0959438818300928)
+#### [Radulescu & Niv (2019): State Representation in Mental Illness](https://www.sciencedirect.com/science/article/pii/S0959438818300928)
 {: .no_toc }
-*State Representation in Mental Illness*
 
-> Some ideas about why we think exploring state representations may be valuable in computational psychiatry.
+Some ideas about why we think exploring state representations may be valuable in computational psychiatry.
 
-
+---
 
 ## Foundations
 
 ### Reinforcement learning & decision theory
 
-#### [Niv (2008)](https://doi.org/10.1016/j.jmp.2008.12.005)
+#### [Niv (2008): Reinforcement learning in the brain](https://doi.org/10.1016/j.jmp.2008.12.005)
 {: .no_toc }
-*Reinforcement learning in the brain*
 
-> An introduction to the formal reinforcement learning framework, including a review of the multiple lines of evidence linking reinforcement learning to the function of dopaminergic neurons in the mammalian midbrain and to human imaging experiments.  
-*[Part of the Niv Lab Primer](#Niv-Lab-Primer)*
+An introduction to the formal reinforcement learning framework, including a review of the multiple lines of evidence linking reinforcement learning to the function of dopaminergic neurons in the mammalian midbrain and to human imaging experiments.  
+*[Part of the Niv Lab Primer](#niv-lab-primer)*
 
-#### [Dayan & Daw (2008)](https://doi.org/10.3758/CABN.8.4.429)
+#### [Dayan & Daw (2008): Decision theory, reinforcement learning, and the brain](https://doi.org/10.3758/CABN.8.4.429)
 {: .no_toc }
-*Decision theory, reinforcement learning, and the brain*
 
-> A review of the Bayesian decision theoretic approach to decision making, showing how it unifies issues in Markovian decision problems, signal detection psychophysics, sequential sampling, and optimal exploration. Includes paradigmatic psychological and neural examples of each problem.
+A review of the Bayesian decision theoretic approach to decision making, showing how it unifies issues in Markovian decision problems, signal detection psychophysics, sequential sampling, and optimal exploration. Includes paradigmatic psychological and neural examples of each problem.
 
 ### General learning and memory
 
-#### [Costa & Schoenbaum (2022)](https://doi.org/10.1016/j.cub.2022.06.060)
+#### [Tolman (1948): Cognitive maps in rats and men](https://psycnet.apa.org/record/1949-00103-001)
 {: .no_toc }
-*Dopamine*
->An appropriately named primer on dopamine.
 
+Classic and seminal paper introducing the notion of cognitive maps.
 
-#### [McClelland, McNaughton & O'Reilly (1995)](https://psycnet.apa.org/record/1995-42327-001)
+#### [McClelland, McNaughton & O'Reilly (1995): <sup><sub>Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory</sub></sup>](https://psycnet.apa.org/record/1995-42327-001)
 {: .no_toc }
-*Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory*
 
-> Classic and highly influential computational modelling framework for complementary learning systems (cortex vs. hippocampus). A great use of neural network/distributed representations. The theory has been updated since, but it's a classic.
+Classic and highly influential computational modeling framework for complementary learning systems (cortex vs. hippocampus). A great use of neural network/distributed representations. The theory has been updated since, but it's a classic.
 
-#### [Tolman (1948)](https://psycnet.apa.org/record/1949-00103-001)
+#### [Costa & Schoenbaum (2022): Dopamine](https://doi.org/10.1016/j.cub.2022.06.060)
 {: .no_toc }
-*Cognitive maps in rats and men*
 
-> Classic and seminal paper introducing the notion of cognitive maps
+An appropriately named primer on dopamine.
 
 ### Generalization, categorization & latent-cause inference
 
-#### [Gershman, Blei & Niv (2010)](https://psycnet.apa.org/record/2009-25263-004)
+#### [Shepard (1987): Toward a universal law of generalization for psychological science](https://www.science.org/doi/10.1126/science.3629243)
 {: .no_toc }
-*Context, learning, and extinction*
 
-> A paper showing that learning about contexts in conditioning, just like categorization, is well-explained by latent-cause models.
+The classic paper on generalization, deriving that the probability of generalization from one stimulus to another should decay approximately exponentially with the psychological distance between the stimuli, which is confirmed by a range of empirical evidence.
+
+#### [Anderson (1991): The adaptive nature of human categorization](https://psycnet.apa.org/record/1991-32228-001)
+{: .no_toc }
+
+The paper which introduced the non-parametric model of categorization on which our latent-cause inference models are based (using the Dirichlet process mixture / Chinese restaurant process prior).
+
+#### [Gershman, Blei & Niv (2010): Context, learning, and extinction](https://psycnet.apa.org/record/2009-25263-004)
+{: .no_toc }
+
+A paper showing that learning about contexts in conditioning, just like categorization, is well-explained by latent-cause models.
 *[Part of the Niv Lab Primer](#niv-lab-primer)*
-
-
-#### [Anderson (1991)](https://psycnet.apa.org/record/1991-32228-001)
-{: .no_toc }
-*The adaptive nature of human categorization*
-
-> The paper which introduced the non-parametric model of categorization on which our latent-cause inference models are based (using the Dirichlet process mixture/CRP prior).
-
-#### [Shepard (1987)](https://www.science.org/doi/10.1126/science.3629243)
-{: .no_toc }
-*Toward a universal law of generalization for psychological science*
-
-> The classic paper on generalization, deriving that the probability of generalization from one stimulus to another should decay approximately exponentially with the psychological distance between the stimuli, which is confirmed by a range of empirical evidence.
 
 ### Computational psychiatry
 
-#### [Huys, Maia & Frank (2016)](https://www.nature.com/articles/nn.4238)
+#### [Huys, Moutoussis & Williams (2011): Are computational models of any use to psychiatry?](https://www.sciencedirect.com/science/article/pii/S0893608011000852)
 {: .no_toc }
-*Computational psychiatry as a bridge from neuroscience to clinical applications*
 
-> An introduction to computational psychiatry, including a review of theory- and data-driven approaches and examples of each.
+A paper discussing the benefits and challenges of using computational models in psychiatry in the form of a debate between two fictional characters.
 
-#### [Huys, Moutoussis & Williams(2011)](https://www.sciencedirect.com/science/article/pii/S0893608011000852)
+#### [Huys, Maia & Frank (2016): Computational psychiatry as a bridge from neuroscience to clinical applications](https://www.nature.com/articles/nn.4238)
 {: .no_toc }
-*Are computational models of any use to psychiatry?*
 
-> A paper discussing the benefits and challenges of using computational models in psychiatry in the form of a debate between two fictional characters.
+An introduction to computational psychiatry, including a review of theory- and data-driven approaches and examples of each.
 
-#### [Moutoussis et al. (2017)](https://doi.org/10.1162/CPSY_a_00014)
+#### [Moutoussis et al. (2017): Computation in Psychotherapy, or How Computational Psychiatry Can Aid Learning-Based Psychological Therapies](https://doi.org/10.1162/CPSY_a_00014)
 {: .no_toc }
-*Computation in Psychotherapy, or How Computational Psychiatry Can Aid Learning-Based Psychological Therapies*
 
-> Introduces how computational modeling can help formalize and test hypotheses regarding how patients make inferences.
+Introduces how computational modeling can help formalize and test hypotheses regarding how patients make inferences.
 
 ### Prefrontal cortex and decision making
 
-#### [Rushworth et al., 2011](https://www.sciencedirect.com/science/article/pii/S0896627311003953?via%3Dihub)
+#### [Rushworth et al. (2011): Frontal Cortex and Reward-Guided Learning and Decision-Making](https://www.sciencedirect.com/science/article/pii/S0896627311003953?via%3Dihub)
 {: .no_toc }
-*Frontal Cortex and Reward-Guided Learning and Decision-Making*
 
-> A lot has been done in the decade since, but it's nice starting point to value/decision making in the prefrontal cortex, covering both human and monkey studies.
+A lot has been done in the decade since, but it's nice starting point to value/decision making in the prefrontal cortex, covering both human and monkey studies.
 
-### [Wilson et al., 2014](https://www.sciencedirect.com/science/article/pii/S0896627313010398)
+#### [Wilson et al. (2014): Orbitofrontal Cortex as a Cognitive Map of Task Space](https://www.sciencedirect.com/science/article/pii/S0896627313010398)
 {: .no_toc }
-*Orbitofrontal Cortex as a Cognitive Map of Task Space*
 
-> A theoratical model of state representation in the orbitofrtonal cortex.
+A theoretical model of state representation in the orbitofrontal cortex.
 
+---
 
 ## Experiments & Data Collection
 
-#### [Barbosa et al. (2022)](https://link.springer.com/article/10.3758/s13428-022-01793-9)
+#### [Barbosa et al. (2022): A practical guide for studying human behavior in the lab](https://link.springer.com/article/10.3758/s13428-022-01793-9)
 {: .no_toc }
-*A practical guide for studying human behavior in the lab*
 
-> A 10 simple rules paper on designing, piloting, running, and analyzing behavioral experiments.
+A 10 simple rules paper on designing, piloting, running, and analyzing behavioral experiments.
 
 ### Online data quality
 
-#### [Agley et al. (2021)](https://doi.org/10.3758/s13428-021-01665-8)
+#### [Zorowitz et al. (2021): Inattentive responding can induce spurious associations between task behavior and symptom measures](https://psyarxiv.com/rynhk)
 {: .no_toc }
-*Quality control questions on Amazon’s Mechanical Turk (MTurk): A randomized trial of impact on the USAUDIT, PHQ-9, and GAD-7*
 
-> An investigation of different attention checks in the online environment, and their resulting impacts in preventing skew in common psychiatric screening measures. Different quality control approaches significantly affect outcome scores on each of the screening tools.
+Demonstration of how spurious correlations can arise between task and self-report data in the presence of low-effort participants.
 
-#### [Zorowitz et al. (2021)](https://psyarxiv.com/rynhk)
+#### [Fowler et al. (2022): Frustration and ennui among Amazon MTurk workers](https://doi.org/10.3758/s13428-022-01955-9)
 {: .no_toc }
-*Inattentive responding can induce spurious associations between task behavior and symptom measures*
 
-> Demonstration of how spurious correlations can arise between task and self-report data in the presence of low-effort participants.
+Overview of best practices in the design of online experiments to make your participants are happy :)
 
+---
 
 ## Methods & Statistics
 
 ### Mixed effects models
 
-#### [Barr et al. (2013)](https://dx.doi.org/10.1016%2Fj.jml.2012.11.001)
+#### [Barr et al. (2013): Random effects structure for confirmatory hypothesis testing: Keep it maximal](https://dx.doi.org/10.1016%2Fj.jml.2012.11.001)
 {: .no_toc }
-*Random effects structure for confirmatory hypothesis testing: Keep it maximal*
 
-> Recommendations for fitting to linear mixed-effects models to maximize generalizability across experiments.
+Recommendations for fitting to linear mixed-effects models to maximize generalizability across experiments.
 
-#### [Meteyard & Davies (2020)](https://doi.org/10.1016/j.jml.2020.104092)
+#### [Meteyard & Davies (2020): Best practice guidance for linear mixed-effects models in psychological science](https://doi.org/10.1016/j.jml.2020.104092)
 {: .no_toc }
-*Best practice guidance for linear mixed-effects models in psychological science*
 
-> A set of best practice guidance, focusing on the reporting of linear mixed-effects models.
+A set of best practice guidance, focusing on the reporting of linear mixed-effects models.
 
-#### [Yu et al. (2021)](https://doi.org/10.1016/j.neuron.2021.10.030)
+#### [Yu et al. (2021): Beyond t test and ANOVA: applications of mixed-effects models for more rigorous statistical analysis in neuroscience research](https://doi.org/10.1016/j.neuron.2021.10.030)
 {: .no_toc }
-*Beyond t test and ANOVA: applications of mixed-effects models for more rigorous statistical analysis in neuroscience research*
 
-> A primer on linear and generalized mixed-effects models that consider data dependence and which provides clear instruction on how to recognize when they are needed and how to apply them.
+A primer on linear and generalized mixed-effects models that consider data dependence and which provides clear instruction on how to recognize when they are needed and how to apply them.
 
-#### [Hoffman & Walters (2022)](https://psyarxiv.com/j8x9k/)
+#### [Hoffman & Walters (2022): Catching Up on Multilevel Modeling](https://psyarxiv.com/j8x9k/)
 {: .no_toc }
-*Catching Up onMultilevel Modeling*
 
-> A review focused on the use of multilevel models in psychology and other social sciences. Targeted towards readers aiming to get up to speed on current best practices in the specification of multilevel models.
+A review focused on the use of multilevel models in psychology and other social sciences. Targeted towards readers aiming to get up to speed on current best practices in the specification of multilevel models.
 
 ### Cognitive modeling
 
-#### [Palminteri et al. (2017)](https://doi.org/10.1016/j.tics.2017.03.011)
+#### [Palminteri et al. (2017): The Importance of Falsification in Computational Cognitive Modeling](https://doi.org/10.1016/j.tics.2017.03.011)
 {: .no_toc }
-*The Importance of Falsification in Computational Cognitive Modeling*
 
-> Argues that the simulation of candidate models is necessary to falsify models and thereby support the specific claims of a particular model. Proposes practical guidelines for model comparison and falsification.
+Argues that the simulation of candidate models is necessary to falsify models and thereby support the specific claims of a particular model. Proposes practical guidelines for model comparison and falsification.
 
-#### [Wilson & Collins (2019)](https://doi.org/10.7554/eLife.49547)
+#### [Wilson & Collins (2019): Ten simple rules for the computational modeling of behavioral data](https://doi.org/10.7554/eLife.49547)
 {: .no_toc }
-*Ten simple rules for the computational modeling of behavioral data*
 
-> A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison.
-*[Part of the Niv Lab Primer](#niv-lab-primer)*
+A beginner-friendly, pragmatic and details-oriented introduction on how to relate models to data. Covers model design, fitting, evaluation, and comparison. (*[Part of the Niv Lab Primer](#niv-lab-primer)*)
 
 
 ### Stan programming language
 
-#### [Betancourt (2017)](https://arxiv.org/abs/1701.02434)
+#### [Betancourt (2017): A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 {: .no_toc }
-*A Conceptual Introduction to Hamiltonian Monte Carlo*
 
-> A comprehensive conceptual account of the foundations of Hamiltonian Monte Carlo, focusing on developing a principled intuition behind the method and its optimal implementations rather of any exhaustive rigor.
+A comprehensive conceptual account of the foundations of Hamiltonian Monte Carlo, focusing on developing a principled intuition behind the method and its optimal implementations rather of any exhaustive rigor.
 
-#### [Baribault & Collins (2021)](https://psyarxiv.com/rtgew)
+#### [Baribault & Collins (2021): Troubleshooting Bayesian cognitive models: A tutorial with matstanlib](https://psyarxiv.com/rtgew)
 {: .no_toc }
-*Troubleshooting Bayesian cognitive models: A tutorial with matstanlib*
 
-> A deep treatment of the diagnostic checks and procedures that are critical for effective Stan troubleshooting, but are often left underspecified by tutorial papers.
+A thorough treatment of the diagnostic checks and procedures that are critical for effective Stan troubleshooting, but are often left underspecified by tutorial papers.
 
+---
 
 ## Research skills
 
 ### Data management
 
-#### [Henry (2021)](https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management)
+#### [Henry (2021): Eight Principles of Good Data Management](https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management)
 {: .no_toc }
-*Eight Principles of Good Data Management*
 
-> A comprehensive overview of good data management practices.
+A comprehensive overview of good data management practices.
 
-#### [Haroz (2022)](http://steveharoz.com/blog/2022/a-bare-minimum-for-open-empirical-data/)
+#### [Haroz (2022): A bare minimum for open empirical data](http://steveharoz.com/blog/2022/a-bare-minimum-for-open-empirical-data/)
 {: .no_toc }
-*A bare minimum for open empirical data*
 
-> Bare minimum requirements for what open data should entail in behavioral research.
+Bare minimum requirements for what open data should entail in behavioral research.
