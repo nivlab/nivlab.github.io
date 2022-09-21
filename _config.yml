@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Niv Lab Technical Resources
 author: Your Name
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -7,12 +7,8 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Google search results) and in your feed.xml site description.
 
 # Header Links
-homepage: https://blog.tedivm.com
-twitter_username: example
-github_username:  example
-linkedin_username: example
-
-
+homepage: https://nivlab.princeton.edu/
+github_username:  nivlab
 
 # Build settings
 theme: jekyll-theme-portfolio
