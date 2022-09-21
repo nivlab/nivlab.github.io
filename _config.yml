@@ -5,15 +5,9 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Technical resources made by the Niv lab.
 
 # Header Links
-homepage: https://nivlab.princeton.edu/
-#baseurl: "/nivlab"
-#url: "https://nivlab.github.io"
-github_username:  nivlab
-
-# Build settings
-theme: tedivm/jekyll-theme-portfolio
+homepage: https://nivlab.princeton.edu
+github_username: nivlab
 
 plugins:
- - jekyll-remote-theme
  - jekyll-feed
  - jekyll-seo-tag
