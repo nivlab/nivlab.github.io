@@ -4,6 +4,4 @@ gemspec
 
 gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
 
-gem "jekyll-remote-theme"
-
 gem "webrick", "~> 1.7"
