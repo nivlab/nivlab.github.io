@@ -4,6 +4,14 @@ The main hub for Niv lab's technical resource sites.
 
 ## Development
 
+### Modifying the portfolio
+
+For step-by-step instructions for adding to or modifying the project portfolio, see [Portfolio Theme](https://github.com/tedivm/jekyll-theme-portfolio#getting-started) README.
+
+### Modifying the library
+
+Edit the `library.md` file as you see fit :)
+
 ### Previewing the demos page locally
 
 If you'd like to preview the site locally (for example, in the process of proposing a change):
