@@ -11,7 +11,7 @@ homepage: https://nivlab.princeton.edu/
 github_username:  nivlab
 
 # Build settings
-theme: jekyll-theme-portfolio
+theme: tedivm/jekyll-theme-portfolio
 
 plugins:
  - jekyll-remote-theme
