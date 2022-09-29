@@ -159,6 +159,11 @@ Overview of best practices in the design of online experiments to make your part
 ### Mixed effects models
 {: style="font-size: 160%;" }
 
+#### [Shaw & Flake (2022): Introduction to Multilevel Modelling](https://www.learn-mlms.com/)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+An online resource to learn the fundamentals of multilevel modelling, from why and when you would use them and how to do so for various research questions and data structures.
+
 #### [Barr et al. (2013): Random effects structure for confirmatory hypothesis testing: Keep it maximal](https://dx.doi.org/10.1016%2Fj.jml.2012.11.001)
 {: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
 
@@ -194,6 +199,11 @@ A beginner-friendly, pragmatic and details-oriented introduction on how to relat
 
 ### Stan programming language
 {: style="font-size: 160%;" }
+
+#### [Johnson et al. (2021): Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+An online resource for learning and understanding Bayesian statistics and software.
 
 #### [Betancourt (2017): A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 {: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
