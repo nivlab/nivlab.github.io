@@ -231,3 +231,21 @@ A comprehensive overview of good data management practices.
 {: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
 
 Bare minimum requirements for what open data should entail in behavioral research.
+
+### Plotting & visualization
+{: style="font-size: 160%;" }
+
+#### [The R Graph Gallery](https://r-graph-gallery.com/index.html)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+A collection of charts made with the R programming language. Hundreds of charts are displayed in several sections, always with their reproducible code available.
+
+#### [Muth (2020): How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+Choosing good colors for your charts is hard. This article tries to make it easier.
+
+#### [Muth (2022): What to consider when using text in data visualizations](https://blog.datawrapper.de/text-in-data-visualizations/)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+Tips for effectively using text in figures.
