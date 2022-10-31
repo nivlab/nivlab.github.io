@@ -139,6 +139,11 @@ A theoretical model of state representation in the orbitofrontal cortex.
 
 A 10 simple rules paper on designing, piloting, running, and analyzing behavioral experiments.
 
+#### [Zorowitz & Niv (2022): Improving the reliability of cognitive task measures: A narrative review](https://psyarxiv.com/phzrb)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+A review of approaches for improving the psychometric reliability of task measures for use in individual-differences research.
+
 ### Online data quality
 {: style="font-size: 160%;" }
 
