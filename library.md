@@ -144,6 +144,11 @@ A 10 simple rules paper on designing, piloting, running, and analyzing behaviora
 
 A review of approaches for improving the psychometric reliability of task measures for use in individual-differences research.
 
+#### [Frank et al. (2023): Experimentology](https://experimentology.io/)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+An open web textbook covering open science approaches to experimental psychology methods.
+
 ### Online data quality
 {: style="font-size: 160%;" }
 
