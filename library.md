@@ -242,6 +242,11 @@ A comprehensive overview of good data management practices.
 
 Bare minimum requirements for what open data should entail in behavioral research.
 
+#### [Lewis (2023): Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+A detailed guide to good data management practices.
+
 ### Plotting & visualization
 {: style="font-size: 160%;" }
 
