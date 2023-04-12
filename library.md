@@ -194,6 +194,25 @@ A primer on linear and generalized mixed-effects models that consider data depen
 
 A review focused on the use of multilevel models in psychology and other social sciences. Targeted towards readers aiming to get up to speed on current best practices in the specification of multilevel models.
 
+### Multiple comparisons
+{: style="font-size: 160%;" }
+
+#### [Rubin (2021): When to adjust alpha during multiple testing: a consideration of disjunction, conjunction, and individual testing](https://doi.org/10.1007/s11229-021-03276-4)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+The article outlines the conditions in which multiple comparisons corrections (i.e., alpha adjustment) is appropriate and the conditions in which it is inappropriate.
+
+#### [García-Pérez (2023): Use and misuse of corrections for multiple testing](http://dx.doi.org/10.1016/j.metip.2023.100120)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+This paper describes the workings of Bonferroni and false-discovery-rate adjustments, and provides recommendations for the use and reporting of alpha adjustments for a variety of statistical analyses with which they are often implemented.
+
+#### [Gelman et al. (2012): Why We (Usually) Don’t Have to Worry About Multiple Comparisons](https://doi.org/10.1080/19345747.2011.618213)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+This paper describes the multiple comparisons problem from the Bayesian perspective. It argues that the problem of multiple comparisons can
+disappear entirely when viewed from a hierarchical Bayesian and partial-pooling perspective. 
+
 ### Cognitive modeling
 {: style="font-size: 160%;" }
 
