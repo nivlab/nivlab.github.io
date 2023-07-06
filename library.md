@@ -152,7 +152,7 @@ An open web textbook covering open science approaches to experimental psychology
 ### Online data quality
 {: style="font-size: 160%;" }
 
-#### [Zorowitz et al. (2021): Inattentive responding can induce spurious associations between task behavior and symptom measures](https://psyarxiv.com/rynhk)
+#### [Zorowitz et al. (2023): Inattentive responding can induce spurious associations between task behavior and symptom measures](https://doi.org/10.1038/s41562-023-01640-7)
 {: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
 
 Demonstration of how spurious correlations can arise between task and self-report data in the presence of low-effort participants.
