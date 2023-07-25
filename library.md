@@ -239,7 +239,12 @@ An online resource for learning and understanding Bayesian statistics and softwa
 
 A comprehensive conceptual account of the foundations of Hamiltonian Monte Carlo, focusing on developing a principled intuition behind the method and its optimal implementations rather of any exhaustive rigor.
 
-#### [Baribault & Collins (2021): Troubleshooting Bayesian cognitive models: A tutorial with matstanlib](https://psyarxiv.com/rtgew)
+#### [Gelman et al. (2020): Bayesian Workflow](https://arxiv.org/abs/2011.01808)
+{: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
+
+Overview of best practices for a workflow using Stan.
+
+#### [Baribault & Collins (2023): Troubleshooting Bayesian cognitive models.](https://doi.org/10.1037/met0000554)
 {: .no_toc style="font-size: 120%; margin: 12px 0 6px 0;" }
 
 A thorough treatment of the diagnostic checks and procedures that are critical for effective Stan troubleshooting, but are often left underspecified by tutorial papers.
