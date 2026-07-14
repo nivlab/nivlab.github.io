@@ -5,33 +5,33 @@
       description: Tools for serving and storing data from online experiments.
       homepage: https://nivlab.github.io/nivturk
       github: nivlab/nivturk
-      image: database.png
+      image: nivturk.png
 
     - name: jsPsych demos
-      description: Collection of web experiments and other utilities programmed in jsPsych.
+      description: Web experiments and other utilities programmed in jsPsych.
       homepage: https://nivlab.github.io/jspsych-demos
       github: nivlab/jspsych-demos
-      image: video-game.png
+      image: jspsych.png
 
     - name: Reference library
-      description: Curated list of articles and references frequently cited by the lab.
-      homepage: /library
-      image: open-book.png
+      description: List of articles and references frequently cited by the lab.
+      homepage: https://nivlab.github.io/library
+      image: library.png
 
     - name: OpenData
       description: Database of open behavioral datasets.
       homepage: https://nivlab.github.io/opendata
       github: nivlab/opendata
-      image: padlock-unlock.png
+      image: opendata.png
 
     - name: NivStan
       description: Recipes for cognitive modeling using Stan.
       homepage: https://nivlab.github.io/nivstan
       github: nivlab/nivstan
-      image: plot.png
+      image: nivstan.png
 
     - name: NivLink
       description: Tools for preprocessing eye-tracking data.
       homepage: https://nivlink.readthedocs.io/en/latest/
       github: nivlab/NivLink
-      image: eye.png
+      image: nivlink.png

@@ -10,6 +10,15 @@
 $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 @import url($web-font-path);
 
+// Banner
+/* ---------- Banner ---------- */
+.nivlab-banner {
+  display: block;
+  width: 100%;
+  height: 310px;
+  object-fit: cover;
+}
+
 // Navbar ======================================================================
 
 .navbar {
