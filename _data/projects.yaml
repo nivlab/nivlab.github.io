@@ -15,7 +15,7 @@
 
     - name: Reference library
       description: List of articles and references frequently cited by the lab.
-      homepage: https://nivlab.github.io/library
+      homepage: /library/
       image: library.png
 
     - name: OpenData

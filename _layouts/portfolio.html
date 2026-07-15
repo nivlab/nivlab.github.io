@@ -4,44 +4,40 @@ columns: 3
 ---
 {{ content }}
 {% for category in site.data.projects %}
-<div class='row'>
-  <div class='col-12 my-3'>
-    {% if category.description %}
-    <div class="alert alert-light">{{ category.description | safe | newline_to_br }}</div>
-    {% endif %}
-    <div class="row">
-      {% for project in category.projects %}
-      <div class="col-12 col-sm-6 col-xl-4 my-3">
-        <div class="card project-card h-100" data-href="{{ project.homepage }}">
+<div class='col-12 my-3'>
+  {% if category.description %}
+  <div class="alert alert-light">{{ category.description | safe | newline_to_br }}</div>
+  {% endif %}
+  <div class="row">
+    {% for project in category.projects %}
+    <div class="col-12 col-sm-6 col-xl-4 my-3">
+      <div class="card project-card h-100" data-href="{{ project.homepage | relative_url }}">
 
-          <div class="text-center">
-            {% if project.image %}
-            <img src="{{ "/assets/images/projects" | relative_url }}/{{ project.image }}" class="card-img-top"
-              style="width: 100%; height: 200px; object-fit: cover; padding: 20px;"
-              alt="{{ project.name }} Project Logo">
-            {% endif %}
-          </div>
-
-          <div class="card-body">
-            {% if project.description %}
-            <p class="card-text" style="font-size: 1.2rem;">{{ project.description | safe | newline_to_br }}</p>
-            {% endif %}
-          </div>
-
-          {% if project.github %}
-          <div class="card-footer text-center">
-            <a href="https://github.com/{{ project.github }}" class="card-link" onclick="event.stopPropagation();">
-              <i class="fab fa-github fa-2x" title="{{ project.name }} on Github"></i>
-            </a>
-          </div>
+        <div class="text-center">
+          {% if project.image %}
+          <img src="{{ " /assets/images/projects" | relative_url }}/{{ project.image }}" class="card-img-top"
+            style="width: 100%; height: 200px; object-fit: cover;" alt="{{ project.name }} Project Logo">
           {% endif %}
         </div>
+
+        <div class="card-body">
+          {% if project.description %}
+          <p class="card-text" style="font-size: 1.2rem;">{{ project.description | safe | newline_to_br }}</p>
+          {% endif %}
+        </div>
+
+        {% if project.github %}
+        <div class="card-footer text-center">
+          <a href="https://github.com/{{ project.github }}" class="card-link" onclick="event.stopPropagation();">
+            <i class="fab fa-github fa-2x" title="{{ project.name }} on Github"></i>
+          </a>
+        </div>
+        {% endif %}
       </div>
-      {%- endfor -%}
     </div>
+    {%- endfor -%}
   </div>
 </div>
-
 {% endfor %}
 
 <style>

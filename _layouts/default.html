@@ -26,8 +26,13 @@
     }
   </style>
 
+  {% if page.banner %}
+  <img src="{{ '/assets/images/projects/' | append: page.banner | relative_url }}" alt="Niv Lab banner"
+    class="nivlab-banner">
+  {% else %}
   <img src="{{ '/assets/images/projects/resources-header.png' | relative_url }}" alt="Niv Lab banner"
     class="nivlab-banner">
+  {% endif %}
   {%- include header.html -%}
 
   <div class="py-5">

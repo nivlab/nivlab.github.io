@@ -1,0 +1,79 @@
+---
+layout: default
+title: Library
+permalink: /library
+banner: library-header.png
+---
+
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+
+<div class="top-nav">
+  <button class="nav-toggle" aria-label="Open menu">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+  <nav id="site-nav" class="site-nav" aria-label="Main">
+    <ul class="nav-list">
+      <li class="nav-list-item"><a href="#niv-lab-primer" class="nav-list-link">Niv Lab primer</a>
+      </li>
+
+      <li class="nav-list-item">
+        <a href="#foundations">Foundations</a>
+        <ul class="nav-list">
+          <li class="nav-list-item"><a class="nav-list-link"
+              href="#reinforcement-learning-decision-theory">Reinforcement
+              learning decision theory</a></li>
+          <li class="nav-list-item"><a class="nav-list-link" href="#general-learning-and-memory">General learning and
+              memory</a></li>
+          <li class="nav-list-item"><a class="nav-list-link"
+              href="#generalization-categorization-latent-cause-inference">Generalization, categorization & latent-cause
+              inference</a></li>
+          <li class="nav-list-item"><a class="nav-list-link" href="#computational-psychiatry">Computational
+              psychiatry</a>
+          </li>
+          <li class="nav-list-item"><a class="nav-list-link" href="#prefrontal-cortex-and-decision-making">Prefrontal
+              cortex
+              and decision making</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-list-item">
+        <a href="#experiments--data-collection" class="nav-list-link">Experiments & Data Collection</a>
+        <ul class="nav-list">
+          <li class="nav-list-item"><a class="nav-list-link" href="#online-data-quality">Online data quality</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-list-item">
+        <a href="#methods--statistics" class="nav-list-link">Methods & Statistics</a>
+        <ul class="nav-list">
+          <li class="nav-list-item"><a class="nav-list-link" href="#mixed-effects-models">Mixed effects models</a></li>
+          <li class="nav-list-item"><a class="nav-list-link" href="#multiple-comparisons">Multiple comparisons</a></li>
+          <li class="nav-list-item"><a class="nav-list-link" href="#cognitive-modeling">Cognitive modeling</a></li>
+          <li class="nav-list-item"><a class="nav-list-link" href="#stan-programming-language">Stan programming
+              language</a>
+          </li>
+        </ul>
+      </li>
+
+      <li class="nav-list-item">
+        <a href="#research-skills" class="nav-list-link">Research skills</a>
+        <ul class="nav-list">
+          <li class="nav-list-item"><a class="nav-list-link" href="#data-management">Data management</a></li>
+          <li class="nav-list-item"><a class="nav-list-link" href="#plotting-visualization">Plotting & visualization</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<main class="main-content">
+  {% capture library_content %}
+    {% include library.md %}
+  {% endcapture %}
+
+  {{ library_content | markdownify }}
+</main>
+<script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
