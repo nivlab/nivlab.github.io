@@ -4,6 +4,10 @@ email: https://nivlab.princeton.edu
 description: > # this means to ignore newlines until "show_exerpts:"
   Technical resources maintained by the Niv lab.
 
+aux_links:
+  "Back to NivLab":
+    - "//nivlab.github.io/"
+
 # Header Links
 homepage: https://nivlab.princeton.edu
 github_username: nivlab

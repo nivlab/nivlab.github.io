@@ -15,6 +15,16 @@ body {
   overflow-x: visible !important;
 }
 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 70px;
+}
+@media (max-width: 900px) {
+  html {
+    scroll-padding-top: 60px;
+  }
+}
+
 body {
   font-family: "Montserrat", Arial, sans-serif;
   font-size: clamp(14px, 1.2vw, 16px);
@@ -103,7 +113,8 @@ a:hover {
 
 .top-nav,
 .site-nav {
-  width: 100%;
+  width: 100% !important;
+  max-width: none !important;
   z-index: 999999;
   overflow: visible !important;
 }
@@ -126,6 +137,7 @@ a:hover {
 }
 
 .main-header {
+  max-width: none !important;
   position: relative;
   z-index: 10001;
 }
@@ -163,7 +175,7 @@ a:hover {
 .site-nav a:hover {
   color: #000;
   text-decoration: none;
-  border-bottom: 2px solid #e77500;
+  background: rgba(231, 117, 0, 0.15);
 }
 
 .site-nav .nav-list .nav-list-link {
@@ -171,6 +183,7 @@ a:hover {
   padding-left: clamp(6px, .8vw, 20px);
   padding-right: clamp(6px, .8vw, 20px);
   white-space: nowrap;
+  width: 100%;
 }
 
 
@@ -213,14 +226,12 @@ a:hover {
 .site-nav .nav-list-item.active>.nav-list-link {
   color: #000 !important;
   font-weight: 700;
-  border-bottom: 2px solid #e77500;
-  background: transparent !important;
+  background: rgba(231, 117, 0, 0.15);
   box-shadow: none !important;
 }
 
-.site-nav .nav-list-item:hover,
 .site-nav .nav-list-link:hover {
-  background: transparent !important;
+  background: rgba(231, 117, 0, 0.15);
 }
 
 
@@ -408,7 +419,7 @@ a:hover {
   .site-nav .nav-list-link.active,
   .site-nav .nav-list-item.active>.nav-list-link {
     background: transparent !important;
-    border-bottom: 2px solid #e77500;
+    background: rgba(231, 117, 0, 0.15) !important;
     font-weight: 700;
   }
 
@@ -490,4 +501,24 @@ a:hover {
 .pt-5,
 .py-5 {
   padding-top: 0 !important;
+}
+
+/* ---------- Back to NivLab ---------- */
+
+.aux-nav {
+  display: flex;
+  padding-bottom: 0.15rem;
+  padding-top: 1rem;
+  border-bottom: 1px solid #d1d5db;
+  width: 100%;
+}
+
+.aux-nav-list {
+  list-style: none;
+  margin-left: auto;
+  padding-right: 2rem;
+}
+
+.aux-nav-list-item a {
+  font-size: 0.75rem;
 }

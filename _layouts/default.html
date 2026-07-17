@@ -35,6 +35,9 @@
   {% endif %}
   {%- include header.html -%}
 
+  {% if page.library_nav %}
+    {% include library-nav.html %}
+  {% endif %}
   <div class="py-5">
     <div class="container page-content">
       {{ content }}
